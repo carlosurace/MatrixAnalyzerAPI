@@ -1,0 +1,3 @@
+[submodule "DotnetToolbox"]
+	path = DotnetToolbox
+	url = git@bitbucket.org:caroffer/dotnet-toolbox.git
